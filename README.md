@@ -16,6 +16,7 @@ Regarding the Dataset
 The Following Operations Specified in the Task Pdf Has been Completed and the Following Scripts Attached
 
 Intermediate Datasets
+
 4. Retail Sales Data
 The dataset link provided in the task PDF is currently not reachable.
 A PDF file with detailed steps and notes regarding this issue is included.
@@ -24,10 +25,15 @@ A PDF file with detailed steps and notes regarding this issue is included.
 The dataset has been preprocessed, and the corresponding script is attached.
 The Spotify Dataset Has been Preprocessed and sript Attached
 
-Note :- For the Retail Sales Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable ad Pdf file with the Steps Regarding this has been provided
+Note :- For the Retail Sales Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable and a  Pdf file  Regarding this with the Steps Regarding this has been Attached to the Project
 
 Advanced Datasets
+
 6. Data Science Job Postings
 
-7. NYC Taxi Trips
+   The Following Operations Specified in the Task Pdf Has been Completed and the Following Scripts Attached
+
+8. NYC Taxi Trips
+
+   Note :- For the NYC Taxi Trips Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable and a  Pdf file  Regarding this with the Steps Regarding this has been Attached to the Project
 
