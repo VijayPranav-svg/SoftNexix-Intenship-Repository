@@ -5,6 +5,9 @@ All The Codes and  Scripts Regarding the Internship are placed in this repositor
 Note on LinkedIn Posts
 I am truly grateful for the opportunity to be part of this internship program. Unfortunately, due to some personal circumstances, I am unable to create LinkedIn posts for each task. I have, however, made sure that all my work and progress are documented within this repository/submission. Thank you for your kind understanding and support.
 
+Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so i kindly ask you to download the files in that case to verify them
+* I have also attached the scripy.py format for the same file for your reference
+
 
 Regarding the Dataset
 
