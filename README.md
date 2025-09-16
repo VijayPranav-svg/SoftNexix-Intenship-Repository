@@ -7,7 +7,9 @@ I am truly grateful for the opportunity to be part of this internship program. U
 
 Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so i kindly ask you to download the files in that case to verify them
 * I have also attached the scripy.py format for the same file for your reference
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+TASK -1
 
 Regarding the Dataset
 
@@ -39,4 +41,8 @@ Advanced Datasets
 8. NYC Taxi Trips
 
    Note :- For the NYC Taxi Trips Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable and a  Pdf file  Regarding this with the Steps Regarding this has been Attached to the Project
+
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SOFT NEXSIS INTENSHP TASK -2 DETAILS HERE:-------------------------------------------------------
 
