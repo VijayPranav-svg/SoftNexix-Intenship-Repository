@@ -63,8 +63,8 @@ Data-Science-Internship/
 ### 🔹 Task 1: [DataCleaning And PreProcessing]
 **Status:**  Completed  
 **Description:** For this project, the dataset was carefully cleaned and prepared through the following steps: 
-**Key Skills:** 
-Data Preprocessing Overview
+
+**Key Skills:** Data Preprocessing Overview
 
 
 **Data Loading & Inspection:** Imported the dataset and performed an initial exploration to understand its structure, size, and key variables.
