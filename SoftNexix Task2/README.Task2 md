@@ -1,0 +1,21 @@
+# Data Science Internship Portfolio
+
+##  Overview
+This repository contains all the tasks and projects completed during my Data Science internship. Each task demonstrates different aspects of data science including data analysis, machine learning, visualization, and statistical modeling.
+
+##  Project Structure
+Data-Science-Internship/
+│
+├── Task1/ # [Task 1 Name - e.g., Data Preprocessing]
+│ ├── task1_files/
+│ ├── README.md
+│ └── requirements.txt
+│
+├── Task2/ # Exploratory Data Analysis (EDA)
+│ ├── Data_Science_using_by_python_task_-_2.pdf
+│ ├── StockDataEDA_Analysis.py
+│ ├── BrazilianEcommerceEDAAnalysis.py
+│ ├── datasets/ # (Add your datasets here)
+│ ├── outputs/ # Generated plots and insights
+│ └── README.md
+
