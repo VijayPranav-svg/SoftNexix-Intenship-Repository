@@ -1,9 +1,9 @@
-# Data Science Internship Portfolio
+#Data Science Internship Portfolio
 
-##  Overview
+#Overview
 This repository contains all the tasks and projects completed during my Data Science internship. Each task demonstrates different aspects of data science including data analysis, machine learning, visualization, and statistical modeling.
 
-##  Project Structure
+#Project Structure
 Data-Science-Internship/
 │
 ├── Task1/ # [Task 1 Name - e.g., Data Preprocessing]
@@ -31,9 +31,9 @@ Data-Science-Internship/
 ├── requirements.txt # Main dependencies
 └── README.md # This file
 
-##  Tasks Completed
+#Tasks Completed
 
-### Task 2: Exploratory Data Analysis (EDA)
+#Task 2: Exploratory Data Analysis (EDA)
 **Status:**  Completed  
 **Description:** Comprehensive exploratory data analysis on multiple datasets including Stock Market data and Brazilian E-commerce data. Implemented full EDA pipeline with advanced visualizations and statistical analysis.  
 **Key Skills:** 
