@@ -8,16 +8,18 @@ I am truly grateful for the opportunity to be part of this internship program. U
 Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so i kindly ask you to download the files in that case to verify them
 * I have also attached the scripy.py format for the same file for your reference
 
-## 📋 Tasks Completed
+## Tasks Completed
+
+##  Tasks Completed
 
 ### 🔹 Task 1: [Task 1 Title]
-**Status:** ✅ Completed  
+**Status:**  Completed  
 **Description:** Brief description of Task 1 objectives and learnings.  
 **Key Skills:** Skill1, Skill2, Skill3  
 **[View Task 1 →](./Task1/)**
 
-### 🔹 Task 2: Exploratory Data Analysis (EDA)
-**Status:** ✅ Completed  
+###  Task 2: Exploratory Data Analysis (EDA)
+**Status:**  Completed  
 **Description:** Comprehensive exploratory data analysis on multiple datasets including Stock Market data and Brazilian E-commerce data. Implemented full EDA pipeline with advanced visualizations and statistical analysis.  
 **Key Skills:** 
 - Data Visualization (Matplotlib, Seaborn)
@@ -31,6 +33,25 @@ Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so 
 - Stock Market Data (2013-2018)
 - Brazilian E-commerce Customer Data
 
+**[View Task 2 →](./Task2/)**
+
+###  Task 3: [Task 3 Title]
+**Status:**  In Progress /  Upcoming  
+**Description:** Brief description of Task 3.  
+**Key Skills:** Skill1, Skill2, Skill3  
+**[View Task 3 →](./Task3/)**
+
+###  Task 4: [Task 4 Title]
+**Status:**  Upcoming  
+**Description:** Brief description of Task 4.  
+**Key Skills:** Skill1, Skill2, Skill3  
+**[View Task 4 →](./Task4/)**
+
+##  Technical Stack
+- **Programming Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scipy
+- **Tools:** Jupyter Notebook, VS Code, Git
+- **Methodologies:** CRISP-DM, Statistical Analysis, Data Visualization
 
 
 
