@@ -7,42 +7,33 @@ I am truly grateful for the opportunity to be part of this internship program. U
 
 Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so i kindly ask you to download the files in that case to verify them
 * I have also attached the scripy.py format for the same file for your reference
-//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-TASK -1
+## 📋 Tasks Completed
 
-Regarding the Dataset
+### 🔹 Task 1: [Task 1 Title]
+**Status:** ✅ Completed  
+**Description:** Brief description of Task 1 objectives and learnings.  
+**Key Skills:** Skill1, Skill2, Skill3  
+**[View Task 1 →](./Task1/)**
 
- Beginner-Friendly Datasets
-1. Customers Dataset
-2. People Dataset
-3. Organizations Dataset
+### 🔹 Task 2: Exploratory Data Analysis (EDA)
+**Status:** ✅ Completed  
+**Description:** Comprehensive exploratory data analysis on multiple datasets including Stock Market data and Brazilian E-commerce data. Implemented full EDA pipeline with advanced visualizations and statistical analysis.  
+**Key Skills:** 
+- Data Visualization (Matplotlib, Seaborn)
+- Statistical Analysis
+- Outlier Detection
+- Correlation Analysis
+- Advanced Plotting (FacetGrid, Pairplots)
+- Data Cleaning and Preprocessing
 
-The Following Operations Specified in the Task Pdf Has been Completed and the Following Scripts Attached
+**Datasets Analyzed:**
+- Stock Market Data (2013-2018)
+- Brazilian E-commerce Customer Data
 
-Intermediate Datasets
 
-4. Retail Sales Data
-The dataset link provided in the task PDF is currently not reachable.
-A PDF file with detailed steps and notes regarding this issue is included.
 
-5.Spotify Streaming History
-The dataset has been preprocessed, and the corresponding script is attached.
-The Spotify Dataset Has been Preprocessed and sript Attached
 
-Note :- For the Retail Sales Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable and a  Pdf file  Regarding this with the Steps Regarding this has been Attached to the Project
-
-Advanced Datasets
-
-6. Data Science Job Postings
-
-   The Following Operations Specified in the Task Pdf Has been Completed and the Following Scripts Attached
-
-8. NYC Taxi Trips
-
-   Note :- For the NYC Taxi Trips Dataset By Following the Link Provided in the Pdf The Dataset is Not Rechable and a  Pdf file  Regarding this with the Steps Regarding this has been Attached to the Project
-
-//--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SOFT NEXSIS INTENSHP TASK -2 DETAILS HERE:-------------------------------------------------------
 
