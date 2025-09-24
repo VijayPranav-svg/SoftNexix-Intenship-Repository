@@ -62,8 +62,22 @@ Data-Science-Internship/
 
 ### 🔹 Task 1: [DataCleaning And PreProcessing]
 **Status:**  Completed  
-**Description:** Brief description of Task 1 objectives and learnings.  
-**Key Skills:** Skill1, Skill2, Skill3  
+**Description:** For this project, the dataset was carefully cleaned and prepared through the following steps: 
+**Key Skills:** 
+Data Preprocessing Overview
+
+
+**Data Loading & Inspection:** Imported the dataset and performed an initial exploration to understand its structure, size, and key variables.
+
+**Missing Value Handling:** Identified and imputed or removed missing values to ensure data consistency.
+
+**Data Type Conversion:** Converted columns to appropriate data types (e.g., categorical, numerical, datetime) for accurate analysis.
+
+**Outlier Detection & Treatment:** Detected outliers using statistical methods and treated them to minimize their impact on results.
+
+**Normalization & Transformation:** Applied scaling and transformations where necessary to standardize data distributions.
+
+**Feature Engineering:** Created additional meaningful features to enhance model performance and extract deeper insights. 
 **[View Task 1 →](https://github.com/VijayPranav-svg/SoftNexix-Intenship-Repository/tree/main/SoftNexis%20Task1)**
 
 ###  Task 2: Exploratory Data Analysis (EDA)
