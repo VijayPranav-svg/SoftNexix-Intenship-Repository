@@ -18,4 +18,37 @@ Data-Science-Internship/
 │ ├── datasets/ # (Add your datasets here)
 │ ├── outputs/ # Generated plots and insights
 │ └── README.md
+│
+├── Task3/ # [Next Task - e.g., Machine Learning]
+│ ├── task3_files/
+│ └── README.md
+│
+├── Task4/ # [Next Task - e.g., Advanced Analytics]
+│ ├── task4_files/
+│ └── README.md
+│
+├── assets/ # Images, logos, etc.
+├── requirements.txt # Main dependencies
+└── README.md # This file
+
+##  Tasks Completed
+
+### Task 2: Exploratory Data Analysis (EDA)
+**Status:**  Completed  
+**Description:** Comprehensive exploratory data analysis on multiple datasets including Stock Market data and Brazilian E-commerce data. Implemented full EDA pipeline with advanced visualizations and statistical analysis.  
+**Key Skills:** 
+- Data Visualization (Matplotlib, Seaborn)
+- Statistical Analysis
+- Outlier Detection
+- Correlation Analysis
+- Advanced Plotting (FacetGrid, Pairplots)
+- Data Cleaning and Preprocessing
+
+**Datasets Analyzed:**
+- Stock Market Data (2013-2018)
+- Brazilian E-commerce Customer Data
+
+
+
+
 
