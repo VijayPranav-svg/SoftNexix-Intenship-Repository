@@ -20,6 +20,7 @@ Data-Science-Internship/
 │ ├── README.md
 
 │ └── requirements.txt
+
 │
 ├── Task2/ # Exploratory Data Analysis (EDA)
 
@@ -34,12 +35,14 @@ Data-Science-Internship/
 │ ├── outputs/ # Generated plots and insights
 
 │ └── README.md
+
 │
 ├── Task3/ # [Next Task - e.g., Machine Learning]
 
 │ ├── task3_files/
 
 │ └── README.md
+
 │
 ├── Task4/ # [Next Task - e.g., Advanced Analytics]
 
