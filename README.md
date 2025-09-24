@@ -1,6 +1,7 @@
 # SoftNexix-Intenship-Repository
 All The Codes and  Scripts Regarding the Internship are placed in this repository
-
+##  Overview
+This repository contains all the tasks and projects completed during my Data Science internship. Each task demonstrates different aspects of data science including data analysis, machine learning, visualization, and statistical modeling.
 
 Note on LinkedIn Posts
 I am truly grateful for the opportunity to be part of this internship program. Unfortunately, due to some personal circumstances, I am unable to create LinkedIn posts for each task. I have, however, made sure that all my work and progress are documented within this repository/submission. Thank you for your kind understanding and support.
@@ -8,7 +9,34 @@ I am truly grateful for the opportunity to be part of this internship program. U
 Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so i kindly ask you to download the files in that case to verify them
 * I have also attached the scripy.py format for the same file for your reference
 
-## Tasks Completed
+##  Project Structure
+
+Data-Science-Internship/
+│
+├── Task1/ # [Task 1 Name - e.g., Data Preprocessing]
+│ ├── task1_files/
+│ ├── README.md
+│ └── requirements.txt
+│
+├── Task2/ # Exploratory Data Analysis (EDA)
+│ ├── Data_Science_using_by_python_task_-_2.pdf
+│ ├── StockDataEDA_Analysis.py
+│ ├── BrazilianEcommerceEDAAnalysis.py
+│ ├── datasets/ # (Add your datasets here)
+│ ├── outputs/ # Generated plots and insights
+│ └── README.md
+│
+├── Task3/ # [Next Task - e.g., Machine Learning]
+│ ├── task3_files/
+│ └── README.md
+│
+├── Task4/ # [Next Task - e.g., Advanced Analytics]
+│ ├── task4_files/
+│ └── README.md
+│
+├── assets/ # Images, logos, etc.
+├── requirements.txt # Main dependencies
+└── README.md # This file
 
 ##  Tasks Completed
 
