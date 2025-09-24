@@ -83,6 +83,3 @@ Data-Science-Internship/
 
 
 
-
-SOFT NEXSIS INTENSHP TASK -2 DETAILS HERE:-------------------------------------------------------
-
