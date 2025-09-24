@@ -79,7 +79,7 @@ Data-Science-Internship/
 - Stock Market Data (2013-2018)
 - Brazilian E-commerce Customer Data
 
-**[View Task 2 →](./Task2/)**
+**[View Task 2 →](https://github.com/VijayPranav-svg/SoftNexix-Intenship-Repository/tree/main/SoftNexix%20Task2)**
 
 ###  Task 3: [Task 3 Title]
 **Status:**  In Progress /  Upcoming  
