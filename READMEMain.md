@@ -14,28 +14,43 @@ Note: Sometime The Ipynb files are Not Properly Rendred in the Github itself so 
 Data-Science-Internship/
 │
 ├── Task1/ # [Task 1 Name - e.g., Data Preprocessing]
+
 │ ├── task1_files/
+
 │ ├── README.md
+
 │ └── requirements.txt
 │
 ├── Task2/ # Exploratory Data Analysis (EDA)
+
 │ ├── Data_Science_using_by_python_task_-_2.pdf
+
 │ ├── StockDataEDA_Analysis.py
+
 │ ├── BrazilianEcommerceEDAAnalysis.py
+
 │ ├── datasets/ # (Add your datasets here)
+
 │ ├── outputs/ # Generated plots and insights
+
 │ └── README.md
 │
 ├── Task3/ # [Next Task - e.g., Machine Learning]
+
 │ ├── task3_files/
+
 │ └── README.md
 │
 ├── Task4/ # [Next Task - e.g., Advanced Analytics]
+
 │ ├── task4_files/
+
 │ └── README.md
 │
 ├── assets/ # Images, logos, etc.
+
 ├── requirements.txt # Main dependencies
+
 └── README.md # This file
 
 ##  Tasks Completed
@@ -44,7 +59,7 @@ Data-Science-Internship/
 **Status:**  Completed  
 **Description:** Brief description of Task 1 objectives and learnings.  
 **Key Skills:** Skill1, Skill2, Skill3  
-**[View Task 1 →](./Task1/)**
+**[View Task 1 →](https://github.com/VijayPranav-svg/SoftNexix-Intenship-Repository/tree/main/SoftNexis%20Task1)**
 
 ###  Task 2: Exploratory Data Analysis (EDA)
 **Status:**  Completed  
