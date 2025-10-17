@@ -103,11 +103,23 @@ Data-Science-Internship/
 **Key Skills:** Skill1, Skill2, Skill3  
 **[View Task 3 →](./Task3/)**
 
-###  Task 4: [Task 4 Title]
-**Status:**  Upcoming  
-**Description:** Brief description of Task 4.  
-**Key Skills:** Skill1, Skill2, Skill3  
-**[View Task 4 →](./Task4/)**
+###  Task 4: E-Commerce A/B Testing & Hypothesis Analysis  
+**Status:**  Completed  
+**Description:**  
+Performed a complete end-to-end **A/B Testing** workflow to evaluate whether a new website design improved conversion rates compared to the existing design.  
+
+**Key Insights:**  
+- The new design improved conversions by ~1.5 percentage points.  
+- Statistical significance confirmed (**p < 0.05**, Z ≈ 4.7).  
+- Recommended full rollout of the new design.  
+
+**Files Included:**  
+- `ab_data.csv` — Dataset  
+- `AB_Testing_Analysis.py` — Python script  
+- `README_AB_Testing.md` — Detailed project report  
+
+**[View Task 4 →](https://github.com/VijayPranav-svg/SoftNexix-Intenship-Repository/tree/main/SoftNexix%20Task4)**  
+
 
 ##  Technical Stack
 - **Programming Language:** Python
