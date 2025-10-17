@@ -101,7 +101,7 @@ Data-Science-Internship/
 **Status:**  In Progress /  Upcoming  
 **Description:** Brief description of Task 3.  
 **Key Skills:** Skill1, Skill2, Skill3  
-**[View Task 3 →](./Task3/)**
+**[View Task 3 →]([./Task3/](https://github.com/VijayPranav-svg/SoftNexix-Intenship-Repository/tree/main/SoftNexix%20Task3))**
 
 ###  Task 4: E-Commerce A/B Testing & Hypothesis Analysis  
 **Status:**  Completed  
